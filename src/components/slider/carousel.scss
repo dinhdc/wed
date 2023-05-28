@@ -1,0 +1,11 @@
+@media  (max-width: 768px){
+  .carousel-root,
+  .carousel-root .carousel-slider{
+    height: 500px;
+  }
+
+  .carousel-root img{
+    height: 500px;
+    object-fit: cover;
+  }
+}

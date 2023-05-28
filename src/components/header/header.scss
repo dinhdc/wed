@@ -1,0 +1,169 @@
+#header {
+  display: block;
+  width: 100%;
+  font-family: 'Nunito Sans', sans-serif;
+
+  .navbar-header {
+    display: none
+  }
+
+  #navbar {
+    transition: all 0.5s ease 0s;
+
+    ul {
+      list-style: none;
+    }
+  }
+
+
+  .topbar {
+    background: #fff;
+    text-align: center;
+    padding: 50px 0 30px;
+    border-bottom: 1px solid #efefef;
+    position: relative;
+    z-index: 1;
+  }
+
+  .site-logo h1 {
+    font-size: 37.5px;
+    font-family: 'Courgette', cursive;
+    margin: -0.12em 0px 0.5em;
+    font-weight: 400;
+  }
+
+  .site-logo i.ti-heart {
+    font-size: 1.5rem;
+    color: #c89d9c;
+    padding: 0 2px;
+  }
+
+  .site-logo h1 + span {
+    color: #797979;
+    font-weight: 300;
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    letter-spacing: 2px;
+  }
+
+  .site-logo h1 + span::before {
+    content: "";
+    background: #ece9e9;
+    width: 35px;
+    height: 1px;
+    position: absolute;
+    left: -50px;
+    top: 9px;
+  }
+
+  .site-logo h1 + span::after {
+    content: "";
+    background: #ece9e9;
+    width: 35px;
+    height: 1px;
+    position: absolute;
+    right: -50px;
+    top: 9px;
+  }
+
+  .navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+  }
+
+  .navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+  }
+
+  .navigation {
+    background-color: #fff;
+    margin-bottom: 0;
+    border: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+  }
+
+  .navbar-header .logo {
+    float: left;
+    padding: 16px 0px 12px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+@media (max-width: 991px) {
+  #header {
+    .header-style-1 .site-logo h1 {
+      font-size: 25px;
+    }
+
+    .site-logo h1 {
+      font-size: 25px;
+    }
+
+    .site-logo h1 + span {
+      font-size: 10px;
+    }
+
+
+    .site-header #navbar {
+      background: rgb(255, 255, 255);
+      width: 280px;
+      margin: 0px;
+      padding: 0px;
+      border-left: 1px solid rgb(204, 204, 204);
+      border-right: 1px solid rgb(204, 204, 204);
+      position: fixed;
+      right: -330px;
+      top: 0px;
+      z-index: 100;
+      display: block !important;
+      height: 100% !important;
+    }
+
+    .site-header .navbar-header {
+      float: none;
+    }
+
+    .navbar-header .logo {
+    }
+
+    .site-header .navbar-collapse.collapse {
+      display: none;
+    }
+
+    .site-header .slideInn {
+      right: 0px !important;
+    }
+
+    .site-header #navbar .navbar-nav {
+      height: 100%;
+      overflow: auto;
+    }
+
+    .site-header .navbar-nav {
+      float: none;
+    }
+
+    .site-header #navbar {
+      background: rgb(255, 255, 255);
+      width: 280px;
+      margin: 0px;
+      padding: 0px;
+      border-left: 1px solid rgb(204, 204, 204);
+      border-right: 1px solid rgb(204, 204, 204);
+      position: fixed;
+      right: -330px;
+      top: 0px;
+      z-index: 100;
+      display: block !important;
+      height: 100% !important;
+    }
+  }
+
+}
