@@ -5,6 +5,8 @@ import Couple from "./components/couple/Couple.jsx";
 import Video from "./components/video/video.jsx";
 import LoveStory from "./components/story/LoveStory.jsx";
 import EventWedding from "./components/event/EventWedding.jsx";
+import Gallery from "./components/gallery/Gallery.jsx";
+import Blog from "./components/blog/Blog.jsx";
 
 function App() {
     return (
@@ -16,6 +18,8 @@ function App() {
             <Video></Video>
             <LoveStory></LoveStory>
             <EventWedding></EventWedding>
+            <Gallery></Gallery>
+            <Blog></Blog>
         </>
     );
 }
