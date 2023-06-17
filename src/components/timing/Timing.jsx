@@ -1,10 +1,13 @@
+import moment from "moment";
 import CountdownTimer from "./CountdownTimer.jsx";
 
 const Timing = () => {
 
     const dateWedding = new Date(2023, 6, 24, 0, 0, 0);
     const dateCurrent = new Date()
-    const differenceInSeconds = Math.floor((dateWedding - dateCurrent) / 1000);
+    const startDate = moment(dateCurrent);
+    const endDate = moment(dateWedding)
+    const differenceInSeconds = endDate.diff(startDate);
     console.log(differenceInSeconds)
     console.log(differenceInSeconds / (24 * 3600))
 
