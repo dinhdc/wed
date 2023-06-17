@@ -19,7 +19,6 @@ function App() {
             <LoveStory></LoveStory>
             <EventWedding></EventWedding>
             <Gallery></Gallery>
-            <Blog></Blog>
         </>
     );
 }

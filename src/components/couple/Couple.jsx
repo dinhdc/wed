@@ -15,7 +15,7 @@ const Couple = () => {
                         <div className="couple-row clearfix">
                             <div className="img-holder">
                                 <img
-                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1686991805/IMG_6259_y0r97f.jpg"
+                                    src="https://cdn.biihappy.com/ziiweb/default/website/3b48bc6125ce6d186297a3e90a11085e.jpeg"
                                     alt="" />
                             </div>
                             <div className="details" style={{ height: "474px" }}>
