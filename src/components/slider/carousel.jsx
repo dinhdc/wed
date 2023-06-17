@@ -1,6 +1,8 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import {Carousel} from 'react-responsive-carousel';
+import { Carousel } from 'react-responsive-carousel';
 import "./carousel.scss"
+import { Banner1 } from './../../assets/banner/IMG_6250.JPG';
+import { Banner2 } from './../../assets/banner/IMG_6251.JPG';
 
 const DemoCarousel = () => {
 
@@ -12,15 +14,15 @@ const DemoCarousel = () => {
                     <div>
                         <img
                             alt={""}
-                            src="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg"/>
+                            src={Banner1} />
                     </div>
                     <div>
                         <img
                             alt={""}
-                            src="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/c3d27a123d944f20a89f69d7d40a4bb0.jpg"/>
+                            src={Banner2} />
                     </div>
                 </Carousel>
-                <div className="slide-main-text" style={{background: "rgba(0,0,0,0.3)"}}>
+                <div className="slide-main-text" style={{ background: "rgba(0,0,0,0.3)" }}>
                     <div className="container">
                         <div className="slide-title">
                             <h2><span>abc</span> <i className="ti-heart"></i> <span>xyz</span></h2>
