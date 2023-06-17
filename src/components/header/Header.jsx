@@ -24,7 +24,7 @@ const Header = () => {
                 <div className="container">
                     <div className="navbar-header">
                         <div className="logo">
-                            <a href="#home"><span>A</span> <i className="ti-heart"></i> <span>X</span></a>
+                            <a href="#home"><span>Tuấn</span> <i className="ti-heart"></i> <span>Vui</span></a>
                         </div>
                         <button onClick={() => setToggle(true)} type="button" className="open-btn">
                             <span className="sr-only">Toggle navigation</span>
