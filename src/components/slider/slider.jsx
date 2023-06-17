@@ -1,5 +1,4 @@
-import {Banner1} from './../../assets/banner/IMG_6250.JPG';
-import {Banner2} from './../../assets/banner/IMG_6251.JPG';
+
 const HeroSlider = () => {
     return <section className="hero-slider hero-style-1" id="home">
         <div className="swiper-container swiper-container-horizontal swiper-container-ios">
@@ -26,13 +25,13 @@ const HeroSlider = () => {
                 <div className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
                      data-swiper-slide-index="1" style={{width: "1466px", transition: "all 0ms ease 0s"}}>
                     <div className="slide-inner slide-bg-image"
-                         data-background={Banner1}
+                            data-background="https://res.cloudinary.com/dzedflvjt/image/upload/v1686990417/IMG_6250_ew1cuy.jpg"
                          style={{transform: "translate3d(1466px, 0px, 0px)", transition: "all 0ms ease 0s", backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg)"}}></div>
                 </div>
                 <div className="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0"
                      style={{width: "1466px", transition: "all 0ms ease 0s"}}>
                     <div className="slide-inner slide-bg-image"
-                         data-background={Banner2}
+                         data-background="https://res.cloudinary.com/dzedflvjt/image/upload/v1686990417/IMG_6255_j0dyvf.jpg"
                          style={{transform: "translate3d(1466px, 0px, 0px)", transition: "all 0ms ease 0s", backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/c3d27a123d944f20a89f69d7d40a4bb0.jpg)"}}></div>
                 </div>
             </div>
