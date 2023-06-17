@@ -20,7 +20,7 @@ const Couple = () => {
                             </div>
                             <div className="details" style={{ height: "474px" }}>
                                 <div className="inner">
-                                    <h2>abc</h2>
+                                    <h2>Đoàn Tuấn</h2>
                                     <p>Là chàng trai đang du học và làm việc tại Hàn Quốc. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và
                                         yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ
                                         bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập
@@ -33,7 +33,7 @@ const Couple = () => {
                         <div className="couple-row last-row clearfix">
                             <div className="details" style={{ height: "474px" }}>
                                 <div className="inner">
-                                    <h2>xyz</h2>
+                                    <h2>Đoàn Vui</h2>
                                     <p>Là người con gái đất mẹ Thái Bình, hiện đang sinh sống và làm việc tại Hà Nội. Cô là giáo viên cấp ba tại một ngôi trường giàu truyền thống ở Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc
                                         sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và
                                         nuôi ước mơ có cho mình một vườn hồng khoe sắc.</p>
