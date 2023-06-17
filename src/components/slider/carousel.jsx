@@ -1,8 +1,6 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import "./carousel.scss"
-import { Banner1 } from './../../assets/banner/IMG_6250.JPG';
-import { Banner2 } from './../../assets/banner/IMG_6251.JPG';
 
 const DemoCarousel = () => {
 
