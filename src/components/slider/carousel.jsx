@@ -12,7 +12,7 @@ const DemoCarousel = () => {
                     <div>
                         <img
                             alt={""}
-                            src="https://res.cloudinary.com/dzedflvjt/image/upload/v1686990417/IMG_6250_ew1cuy.jpg" />
+                            src="https://res.cloudinary.com/dzedflvjt/image/upload/v1686991625/IMG_6262_qrdyjg.jpg" />
                     </div>
                     <div>
                         <img
