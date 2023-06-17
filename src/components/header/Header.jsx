@@ -12,7 +12,7 @@ const Header = () => {
                         <div className="col col-xs-12">
                             <div className="site-logo">
                                 <a href="/">
-                                    <h1>abc <i className="ti-heart"></i> xyz</h1>
+                                    <h1>Đoàn Tuấn <i className="ti-heart"></i> Đoàn Vui</h1>
                                     <span>Just Married</span>
                                 </a>
                             </div>
