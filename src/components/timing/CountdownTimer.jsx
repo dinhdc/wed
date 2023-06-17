@@ -18,7 +18,7 @@ const CountdownTimer = ({ seconds }) => {
         times = times - hours * HOUR;
         const minutes = Math.floor(times / MINUTE);
         times = times - minutes * MINUTE;
-        const second = times;
+        const second = Math.floor(times);
         setTiming({ dates, hours, minutes, second });
     }, [countdown])
 
