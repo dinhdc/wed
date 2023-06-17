@@ -14,12 +14,12 @@ const DemoCarousel = () => {
                     <div>
                         <img
                             alt={""}
-                            src={Banner1} />
+                            src="./../../assets/banner/IMG_6250.JPG" />
                     </div>
                     <div>
                         <img
                             alt={""}
-                            src={Banner2} />
+                            src="./../../assets/banner/IMG_6251,JPG" />
                     </div>
                 </Carousel>
                 <div className="slide-main-text" style={{ background: "rgba(0,0,0,0.3)" }}>
