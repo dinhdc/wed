@@ -1,7 +1,8 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import "./carousel.scss"
-import Banner1 from './../../assets/banner/IMG_6250.JPG'
+// import Banner1 from './../../assets/banner/IMG_6250.JPG'
+// import Banner2 from './../../assets/banner/IMG_6251.JPG'
 
 const DemoCarousel = () => {
 
@@ -13,12 +14,12 @@ const DemoCarousel = () => {
                     <div>
                         <img
                             alt={""}
-                            src={Banner1} />
+                            src="./../../assets/banner/IMG_6250.JPG" />
                     </div>
                     <div>
                         <img
                             alt={""}
-                            src="./../../assets/banner/IMG_6251,JPG" />
+                            src="./../../assets/banner/IMG_6251.JPG" />
                     </div>
                 </Carousel>
                 <div className="slide-main-text" style={{ background: "rgba(0,0,0,0.3)" }}>
