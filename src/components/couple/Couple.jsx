@@ -16,30 +16,25 @@ const Couple = () => {
                             <div className="img-holder">
                                 <img
                                     src="https://cdn.biihappy.com/ziiweb/default/website/3b48bc6125ce6d186297a3e90a11085e.jpeg"
-                                    alt=""/>
+                                    alt="" />
                             </div>
-                            <div className="details" style={{height: "474px"}}>
+                            <div className="details" style={{ height: "474px" }}>
                                 <div className="inner">
                                     <h2>abc</h2>
-                                    <p>Là bác sĩ nha khoa hiện đang công tác tại một phòng khám nha khoa ở Quận 1 thành
-                                        phồ Hồ Chí Minh. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và
+                                    <p>Là chàng trai đang du học và làm việc tại Hàn Quốc. Là một người hiền lành và ít nói. Luôn coi trọng tình cảm và
                                         yêu thương gia đình. Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ
                                         bình yên không đâu sánh bằng đối với mỗi con người. Đó luôn là nơi tràn ngập
                                         tình yêu thương để ta trở về.”</p>
                                     <ul className="social-links">
-
-
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div className="couple-row last-row clearfix">
-                            <div className="details" style={{height: "474px"}}>
+                            <div className="details" style={{ height: "474px" }}>
                                 <div className="inner">
                                     <h2>xyz</h2>
-                                    <p>Cô gái đến từ xứ Huế mộng mơ, hiện đang sinh sống và làm việc tại Sài Gòn. Sau
-                                        khi tốt nghiệp Học viện Báo chí và Tuyên truyền, quyết tâm theo đuổi đam mê làm
-                                        phóng viên du lịch. Là một người hay cười nhưng lại sống nội tâm, thích đọc
+                                    <p>Là người con gái đất mẹ Thái Bình, hiện đang sinh sống và làm việc tại Hà Nội. Cô là giáo viên cấp ba tại một ngôi trường giàu truyền thống ở Hà Nội. Là một người hay cười nhưng lại sống nội tâm, thích đọc
                                         sách, trồng cây và yêu thiên nhiên. Ngoài ra còn rất thích vẽ vời, nuôi mèo và
                                         nuôi ước mơ có cho mình một vườn hồng khoe sắc.</p>
                                     <ul className="social-links">
@@ -51,7 +46,7 @@ const Couple = () => {
                             <div className="img-holder">
                                 <img
                                     src="https://cdn.biihappy.com/ziiweb/default/website/59b631f29bfb9f7cd20437d27ddbe4db.jpeg"
-                                    alt=""/>
+                                    alt="" />
                             </div>
                         </div>
                     </div>
