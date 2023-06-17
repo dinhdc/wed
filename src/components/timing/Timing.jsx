@@ -8,7 +8,7 @@ const Timing = () => {
     const startDate = moment(dateCurrent);
     const endDate = moment(dateWedding)
     const differenceInSeconds = endDate.diff(startDate);
-    console.log(differenceInSeconds)
+    console.log(differenceInSeconds / 1000)
     console.log(differenceInSeconds / (24 * 3600))
 
     return <section className="invitation-section section-padding section-bg-img">
