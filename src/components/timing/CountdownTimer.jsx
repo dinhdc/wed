@@ -11,10 +11,6 @@ const CountdownTimer = ({ seconds }) => {
     const [timing, setTiming] = useState(null);
 
     useEffect(() => {
-        console.log("SECOND~~~", SECOND);
-        console.log("MINUTE~~~", MINUTE);
-        console.log("HOUR~~~", HOUR);
-        console.log("DATE~~~", DATE);
         let times = countdown;
         const dates = Math.floor(times / DATE);
         times = times - dates * DATE;
