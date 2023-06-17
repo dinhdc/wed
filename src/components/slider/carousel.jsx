@@ -1,6 +1,7 @@
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 import "./carousel.scss"
+import {Banner1} from './../../assets/banner/IMG_6250.JPG'
 
 const DemoCarousel = () => {
 
@@ -12,7 +13,7 @@ const DemoCarousel = () => {
                     <div>
                         <img
                             alt={""}
-                            src="./../../assets/banner/IMG_6250.JPG" />
+                            src={Banner1} />
                     </div>
                     <div>
                         <img
