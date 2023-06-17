@@ -26,7 +26,7 @@ const DemoCarousel = () => {
                             <h2><span>Đoàn Tuấn</span> <i className="ti-heart"></i> <span>Đoàn Vui</span></h2>
                         </div>
                         <div className="wedding-date">
-                            <span>24 Tháng 6 2023</span>
+                            <span>25 Tháng 6 2023</span>
                         </div>
                         <div className="clearfix"></div>
                     </div>
