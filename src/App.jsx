@@ -18,7 +18,7 @@ function App() {
             <Video></Video>
             <LoveStory></LoveStory>
             <EventWedding></EventWedding>
-            <Gallery></Gallery><MusicPlayer></MusicPlayer>        </>
+            <Gallery></Gallery>       </>
 
 
     );
