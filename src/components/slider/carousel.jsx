@@ -23,10 +23,10 @@ const DemoCarousel = () => {
                 <div className="slide-main-text" style={{ background: "rgba(0,0,0,0.3)" }}>
                     <div className="container">
                         <div className="slide-title">
-                            <h2><span>abc</span> <i className="ti-heart"></i> <span>xyz</span></h2>
+                            <h2><span>Đoàn Tuấn</span> <i className="ti-heart"></i> <span>Đoàn Vui</span></h2>
                         </div>
                         <div className="wedding-date">
-                            <span>01 Tháng 6 2023</span>
+                            <span>24 Tháng 6 2023</span>
                         </div>
                         <div className="clearfix"></div>
                     </div>
