@@ -5,9 +5,7 @@ const Timing = () => {
 
     const dateWedding = new Date(2023, 6, 24, 0, 0, 0);
     const dateCurrent = new Date()
-    const startDate = moment(dateCurrent);
-    const endDate = moment(dateWedding)
-    const differenceInSeconds = endDate.diff(startDate);
+    const differenceInSeconds = Math.abs(dateWedding - dateCurrent) / 1000
     console.log(differenceInSeconds / 1000)
     console.log(differenceInSeconds / (24 * 3600))
 
