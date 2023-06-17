@@ -8,7 +8,7 @@ const MusicPlayer = () => {
     }, []);
 
     return (
-        <audio ref={audioRef} src="./I-DO.mp3" loop>
+        <audio ref={audioRef} src="I-DO.mp3" loop>
             Your browser does not support the audio element.
         </audio>
     );
