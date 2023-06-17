@@ -6,6 +6,7 @@ const Timing = () => {
     const dateCurrent = new Date()
     const differenceInSeconds = Math.floor((dateWedding - dateCurrent) / 1000);
     console.log(differenceInSeconds)
+    console.log(differenceInSeconds / (24 * 3600))
 
     return <section className="invitation-section section-padding section-bg-img">
         <div className="container">
