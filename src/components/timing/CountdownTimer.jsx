@@ -1,4 +1,4 @@
-import {useState, useEffect} from 'react';
+import { useState, useEffect } from 'react';
 import PropTypes from "prop-types";
 
 const SECOND = 1;
@@ -6,7 +6,7 @@ const MINUTE = 60 * SECOND;
 const HOUR = 60 * MINUTE;
 const DATE = 24 * HOUR;
 
-const CountdownTimer = ({seconds}) => {
+const CountdownTimer = ({ seconds }) => {
     const [countdown, setCountdown] = useState(seconds);
     const [timing, setTiming] = useState(null);
 
@@ -19,7 +19,7 @@ const CountdownTimer = ({seconds}) => {
         const minutes = Math.floor(times / MINUTE);
         times = times - minutes * MINUTE;
         const second = times;
-        setTiming({dates, hours, minutes, second});
+        setTiming({ dates, hours, minutes, second });
     }, [countdown])
 
     useEffect(() => {
@@ -33,8 +33,8 @@ const CountdownTimer = ({seconds}) => {
 
     return (
         <div className="count-down-clock">
-            <div id="clock" data-date="2023-06-01" data-text-day="Ngày" data-text-hour="Giờ"
-                 data-text-minute="Phút" data-text-second="Giây">
+            <div id="clock" data-date="2023-06-24" data-text-day="Ngày" data-text-hour="Giờ"
+                data-text-minute="Phút" data-text-second="Giây">
                 <div className="box">
                     <div>{timing?.dates}</div>
                     <span>Ngày</span></div>
