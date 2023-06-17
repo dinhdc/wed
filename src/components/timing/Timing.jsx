@@ -3,7 +3,9 @@ import CountdownTimer from "./CountdownTimer.jsx";
 const Timing = () => {
 
     const dateWedding = new Date(2023, 6, 24, 0, 0, 0);
-    const dateCurrent = new Date();
+    const dateCurrent = new Date().getMilliseconds();
+    console.log(dateCurrent)
+    console.log(new Date())
     const differenceInSeconds = Math.floor((dateWedding - dateCurrent) / 1000);
 
     return <section className="invitation-section section-padding section-bg-img">
