@@ -1,3 +1,5 @@
+import {Banner1} from './../../assets/banner/IMG_6250.JPG';
+import {Banner2} from './../../assets/banner/IMG_6251.JPG';
 const HeroSlider = () => {
     return <section className="hero-slider hero-style-1" id="home">
         <div className="swiper-container swiper-container-horizontal swiper-container-ios">
@@ -24,31 +26,15 @@ const HeroSlider = () => {
                 <div className="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
                      data-swiper-slide-index="1" style={{width: "1466px", transition: "all 0ms ease 0s"}}>
                     <div className="slide-inner slide-bg-image"
-                         data-background="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg"
+                         data-background={Banner1}
                          style={{transform: "translate3d(1466px, 0px, 0px)", transition: "all 0ms ease 0s", backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg)"}}></div>
                 </div>
                 <div className="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0"
                      style={{width: "1466px", transition: "all 0ms ease 0s"}}>
                     <div className="slide-inner slide-bg-image"
-                         data-background="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/c3d27a123d944f20a89f69d7d40a4bb0.jpg"
+                         data-background={Banner2}
                          style={{transform: "translate3d(1466px, 0px, 0px)", transition: "all 0ms ease 0s", backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/c3d27a123d944f20a89f69d7d40a4bb0.jpg)"}}></div>
                 </div>
-                <div className="swiper-slide swiper-slide-active" data-swiper-slide-index="1"
-                     style={{width: "1466px", transition: "all 0ms ease 0s"}}>
-                    <div className="slide-inner slide-bg-image"
-                         data-background="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg"
-                         style={{transform: "translate3d(1466px, 0px, 0px)", transition: "all 0ms ease 0s", backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg)"}}></div>
-                </div>
-                {/*<div className="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev"*/}
-                {/*     data-swiper-slide-index="0" style={{width: "1466px", transition: "all 0ms ease 0s"}}>*/}
-                {/*    <div className="slide-inner slide-bg-image"*/}
-                {/*         data-background="https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg"*/}
-                {/*         style={{*/}
-                {/*             transform: "translate3d(-733px, 0px, 0px)",*/}
-                {/*             transition: "all 0ms ease 0s",*/}
-                {/*             backgroundImage: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/cde33ed0f326a6a1dce7cecfd64a2892.jpg)"*/}
-                {/*         }}></div>*/}
-                {/*</div>*/}
             </div>
             <div className="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span
                 className="swiper-pagination-bullet"></span><span
