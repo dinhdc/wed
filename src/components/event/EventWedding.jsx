@@ -3,7 +3,7 @@ import CalendarButton from "./CalendarButton.jsx";
 const EventWedding = () => {
     return <section className="event-section section-padding p-t-0 section-bg-color" id="events">
         <div className="top-area"
-             style={{background: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/95c640880776793781cf577ef7fbf1f8.jpg) center center/cover no-repeat local"}}>
+             style={{background: "url(https://res.cloudinary.com/dzedflvjt/image/upload/v1687082480/6250_t8lovz.jpg) center center/cover no-repeat local"}}>
             <h2>Sự Kiện Cưới</h2>
             <p className="">...tình yêu không phải là nhìn chằm chằm vào nhau, mà là nhìn chằm chằm về cùng một
                 hướng...</p>
