@@ -6,6 +6,7 @@ import Video from "./components/video/video.jsx";
 import LoveStory from "./components/story/LoveStory.jsx";
 import EventWedding from "./components/event/EventWedding.jsx";
 import Gallery from "./components/gallery/Gallery.jsx";
+import TheEnd from './components/end/End';
 
 function App() {
     return (
@@ -17,7 +18,9 @@ function App() {
             <Video></Video>
             <LoveStory></LoveStory>
             <EventWedding></EventWedding>
-            <Gallery></Gallery>       </>
+            <Gallery></Gallery>
+            <TheEnd></TheEnd>
+        </>
 
 
     );
