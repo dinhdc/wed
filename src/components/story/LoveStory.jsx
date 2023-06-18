@@ -49,8 +49,8 @@ const LoveStory = () => {
                             <li>
                                 <div className="details">
                                     <h3>Phút giây cầu hôn</h3>
-                                    <span className="date">May 10 2018</span>
-                                    <p>5 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận
+                                    <span className="date">February 23 2023</span>
+                                    <p>Hơn một năm yêu nhau không phải là thời gian quá dài, nhưng đủ cho chúng ta nhận
                                         ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua
                                         những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc
                                         đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh
