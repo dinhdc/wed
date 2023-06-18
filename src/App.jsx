@@ -19,7 +19,7 @@ function App() {
             <LoveStory></LoveStory>
             <EventWedding></EventWedding>
             <Gallery></Gallery>
-            <TheEnd></TheEnd>
+            {/* <TheEnd></TheEnd> */}
         </>
 
 
