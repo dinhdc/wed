@@ -43,7 +43,7 @@ const LoveStory = () => {
                                         xe vòng quanh qua những con phố, len lỏi trong từng dòng người tấp nập. Hay thậm
                                         chí là ghé vào một quán cà phê ven đường để ngồi đó và cảm nhận về cuộc sống của
                                         riêng mình. Đôi khi lạc lõng và hơi cô đơn. Nhưng rồi một ngày đẹp trời, người
-                                        con trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “anh không chở con gái mà không phải người yêu sau 9h tối”.</p>
+                                        con trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “Anh không chở con gái mà không phải người yêu sau 9h tối”.</p>
                                 </div>
                             </li>
                             <li>
