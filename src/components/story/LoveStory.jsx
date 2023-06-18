@@ -17,12 +17,12 @@ const LoveStory = () => {
                             <li>
                                 <div className="details">
                                     <h3>Bạn có tin vào tình yêu online không?</h3>
-                                    <span className="date">December 12 2015</span>
+                                    <span className="date">February 06 2022</span>
                                     <p>Tôi đã từng không tin vào tình yêu online. Đã từng nghĩ làm sao có thể thích một
                                         người chưa từng gặp mặt? Vậy mà giờ đây tôi lại đang như vậy, bây giờ tôi đã
                                         hiểu: thế giới ảo tình yêu thật đấy!!! Ngày ấy vu vơ đăng một dòng status trên
                                         facebook than thở, vu vơ đùa giỡn nói chuyện với một người xa lạ chưa từng quen.
-                                        Mà nào hay biết, 4 năm sau người ấy lại là chồng mình.</p>
+                                        Mà nào hay biết, 1 năm sau người ấy lại là chồng mình.</p>
                                 </div>
                                 <div className="img-holder">
                                     <img

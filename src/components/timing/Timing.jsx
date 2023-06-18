@@ -3,7 +3,7 @@ import CountdownTimer from "./CountdownTimer.jsx";
 
 const Timing = () => {
 
-    const dateWedding = new Date(2023, 5, 24, 0, 0, 0);
+    const dateWedding = new Date(2023, 5, 25, 0, 0, 0);
     const dateCurrent = new Date()
     const differenceInSeconds = Math.abs(dateWedding - dateCurrent) / 1000
     console.log(differenceInSeconds)
