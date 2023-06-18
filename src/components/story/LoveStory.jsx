@@ -38,13 +38,12 @@ const LoveStory = () => {
                                 </div>
                                 <div className="details">
                                     <h3>Lời tỏ tình dễ thương^^</h3>
-                                    <span className="date">August 04 2016</span>
-                                    <p>Ngày ấy, tôi 21! Một mình giữa phố thị nấp tập. Mỗi chiều cuối tuần thường chạy
+                                    <span className="date">June 10 2022</span>
+                                    <p>Ngày ấy, tôi 26! Một mình giữa phố thị nấp tập. Mỗi chiều cuối tuần thường chạy
                                         xe vòng quanh qua những con phố, len lỏi trong từng dòng người tấp nập. Hay thậm
                                         chí là ghé vào một quán cà phê ven đường để ngồi đó và cảm nhận về cuộc sống của
                                         riêng mình. Đôi khi lạc lõng và hơi cô đơn. Nhưng rồi một ngày đẹp trời, người
-                                        con trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “Hy vọng sau này anh được
-                                        làm những điều ấy cùng em”.</p>
+                                        con trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “anh không chở con gái mà không phải người yêu sau 9h tối”.</p>
                                 </div>
                             </li>
                             <li>
