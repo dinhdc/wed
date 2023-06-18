@@ -66,12 +66,12 @@ const LoveStory = () => {
                             <li>
                                 <div className="img-holder">
                                     <img
-                                        src="https://cdn.biihappy.com/ziiweb/default/website/15be4c2cfb762806d02a699688cbe2c2.jpeg"
+                                        src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687105204/6256_rhex00.jpg"
                                         alt="" />
                                 </div>
                                 <div className="details">
                                     <h3>Ngày lễ đính hôn</h3>
-                                    <span className="date">June 25 2023</span>
+                                    <span className="date">June 21 2023</span>
                                     <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về
                                         chung đôi...” Sau bao nhiêu chờ đợi, cuối cùng ngày vui của chúng ta cũng tới
                                         rồi. Cảm ơn vì mình đã luôn là một phần trong cuộc sống của nhau. Em và anh
