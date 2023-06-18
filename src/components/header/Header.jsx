@@ -44,11 +44,7 @@ const Header = () => {
 
                             <li><a href="#gallery">Album cưới</a></li>
 
-                            <li><a href="#featured-people">Phù dâu &amp; Phù rể</a></li>
-
                             <li><a href="#events">Sự kiện</a></li>
-
-                            <li><a href="#wishes">Lời chúc</a></li>
 
                         </ul>
                     </div>
@@ -76,11 +72,8 @@ const Header = () => {
 
                             <li><a href="#gallery">Album cưới</a></li>
 
-                            <li><a href="#featured-people">Phù dâu &amp; Phù rể</a></li>
-
                             <li><a href="#events">Sự kiện</a></li>
 
-                            <li><a href="#wishes">Lời chúc</a></li>
 
                         </ul>
                     </div>

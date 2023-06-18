@@ -15,7 +15,7 @@ const Couple = () => {
                         <div className="couple-row clearfix">
                             <div className="img-holder">
                                 <img
-                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1686991805/IMG_6259_y0r97f.jpg"
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687082052/6259_e93udn.jpg"
                                     alt="" />
                             </div>
                             <div className="details" style={{ height: "474px" }}>
@@ -45,7 +45,7 @@ const Couple = () => {
                             </div>
                             <div className="img-holder">
                                 <img
-                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1686991805/IMG_6258_f5tvnq.jpg"
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687082051/6258_c3dscg.jpg"
                                     alt="" />
                         </div>
                             </div>
