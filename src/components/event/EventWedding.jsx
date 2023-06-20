@@ -13,7 +13,7 @@ const EventWedding = () => {
                 <div className="col col-xs-12">
                     <div className="event-grids clearfix">
                         <div className="grid section-bg-img">
-                         <h3>TIỆC CƯỚI NHÀ NAM</h3>
+                         <h3>TIỆC CƯỚI NHÀ TRAI</h3>
                             <div className="image-wrap">
                                 <img
                                     src="https://cdn.biihappy.com/ziiweb/default/website/eee1cb36b560f0d80f513c4e9be666db.png"
@@ -23,7 +23,7 @@ const EventWedding = () => {
                             <p>Thôn Đồng Tiến, Xã Việt Thuận, Huyện Vũ Thư, Tỉnh Thái Bình</p>
                         </div>
                         <div className="grid section-bg-img">
-                            <h3>LỄ CƯỚI NHÀ NAM</h3>
+                            <h3>LỄ CƯỚI NHÀ TRAI</h3>
                             <div className="image-wrap">
                                 <img
                                     src="https://cdn.biihappy.com/ziiweb/default/website/21b07b7d583692f49091b87facbf2c92.png"
