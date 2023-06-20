@@ -16,99 +16,109 @@ const Gallery = () => {
                     <div className="gallery-container gallery-fancybox masonry-gallery"
                         style={{ position: "relative", height: "2023.12px" }}>
                         <div className="grid grid-item" style={{ position: "absolute", left: "0%", top: "0px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990322c41d7b37de534633/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270110/11_atbdwu.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990322c41d7b37de534633/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270110/11_atbdwu.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
                         <div className="grid grid-item" style={{ position: "absolute", left: "33.2468%", top: "0px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902a5f7c65c763d2ef0e2/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269736/BB0A1230_ds9wsg.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902a5f7c65c763d2ef0e2/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269736/BB0A1230_ds9wsg.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "66.5801%", top: "0px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902a0d5c0e352ac024b43/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "66.5801%", top: "0px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270108/BB0A1279_iicnqs.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902a0d5c0e352ac024b43/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270108/BB0A1279_iicnqs.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "33.2468%", top: "569px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199029c1ca1d308fe5da284/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "33.2468%", top: "256px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A1027_t1r13a.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199029c1ca1d308fe5da284/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A1027_t1r13a.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "66.5801%", top: "569px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990296d7e97a1853119579/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "66.5801%", top: "569px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A1331_yojwvd.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990296d7e97a1853119579/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A1331_yojwvd.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "0%", top: "584px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990291c41d7b37de534632/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "0%", top: "256px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269748/BB0A1190_vjc2fb.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990291c41d7b37de534632/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269748/BB0A1190_vjc2fb.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "33.2468%", top: "839px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199028d8d8a4918ca205514/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "33.2468%", top: "519px"}}>
+
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269740/B%E1%BA%A3n_sao_c%E1%BB%A7a_BB0A0974_svrynk.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199028d8d8a4918ca205514/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269740/B%E1%BA%A3n_sao_c%E1%BB%A7a_BB0A0974_svrynk.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "33.2468%", top: "1120px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199028adb8f76231c132062/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "33.2468%", top: "780px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269739/BB0A1273_zapvwj.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199028adb8f76231c132062/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269739/BB0A1273_zapvwj.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "66.5801%", top: "1140px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990285d5c0e352ac024b42/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "66.5801%", top: "1140px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270115/BB0A1081_tujnvg.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/61990285d5c0e352ac024b42/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270115/BB0A1081_tujnvg.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "0%", top: "1169px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902821ca1d308fe5da283/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "66.5801%", top: "1408px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A0974_ijvssl.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902821ca1d308fe5da283/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A0974_ijvssl.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "33.2468%", top: "1430px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199027ed7e97a1853119578/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+
+                        <div className="grid grid-item" style={{position: "absolute", left: "0%", top: "826px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270113/BB0A1175_dtiu8e.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/6199027ed7e97a1853119578/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270113/BB0A1175_dtiu8e.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
-                        <div className="grid grid-item" style={{ position: "absolute", left: "0%", top: "1430px" }}>
-                            <a href="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902798d8a4918ca205513/large.jpg"
-                                className="fancybox" data-fancybox-group="gall-1">
+                        <div className="grid grid-item" style={{position: "absolute", left: "33.2468%", top: "1408px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269733/BB0A1175_eotpd6.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://cdn.biihappy.com/ziiweb/default/website/galleries/619902798d8a4918ca205513/small.jpg"
-                                    alt="" className="img img-responsive" />
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687269733/BB0A1175_eotpd6.jpg"
+                                    alt="" className="img img-responsive"/>
+                            </a>
+                        </div>
+                        <div className="grid grid-item" style={{position: "absolute", left: "0%", top: "1100px"}}>
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270110/BB0A1234_winfw2.jpg"
+                               className="fancybox" data-fancybox-group="gall-1">
+                                <img
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270110/BB0A1234_winfw2.jpg"
+                                    alt="" className="img img-responsive"/>
                             </a>
                         </div>
                     </div>
