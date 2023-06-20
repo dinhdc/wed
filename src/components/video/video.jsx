@@ -6,7 +6,7 @@ const Video = () => {
             <h2>Xem video cưới của chúng tôi</h2>
             <p>Tình yêu không làm cho thế giới quay tròn. Tình yêu là những gì làm cho chuyến đi đáng giá.</p>
             <div className="video-btn">
-                <a href="https://www.youtube.com/watch?v=D6VNJLQIU_U" rel="noreferrer" target="_blank"
+                <a href="https://youtu.be/_5WbPfNrw6I" rel="noreferrer" target="_blank"
                    className="video-play-btn">
                     <i className="ti-control-play"></i></a></div>
         </div>
