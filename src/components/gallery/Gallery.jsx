@@ -14,7 +14,7 @@ const Gallery = () => {
             <div className="row">
                 <div className="col col-xs-12">
                     <div className="gallery-container gallery-fancybox masonry-gallery"
-                        style={{ position: "relative", height: "2023.12px" }}>
+                        style={{ position: "relative", height: "1600px" }}>
                         <div className="grid grid-item" style={{ position: "absolute", left: "0%", top: "0px" }}>
                             <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270110/11_atbdwu.jpg"
                                className="fancybox" data-fancybox-group="gall-1">
@@ -89,10 +89,10 @@ const Gallery = () => {
                             </a>
                         </div>
                         <div className="grid grid-item" style={{position: "absolute", left: "66.5801%", top: "1408px"}}>
-                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A0974_ijvssl.jpg"
+                            <a href="https://res.cloudinary.com/dzedflvjt/image/upload/v1687272008/BB0A1137_ahkmls.jpg"
                                className="fancybox" data-fancybox-group="gall-1">
                                 <img
-                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687270107/BB0A0974_ijvssl.jpg"
+                                    src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687272008/BB0A1137_ahkmls.jpg"
                                     alt="" className="img img-responsive"/>
                             </a>
                         </div>
