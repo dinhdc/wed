@@ -59,7 +59,7 @@ const LoveStory = () => {
                                 </div>
                                 <div className="img-holder">
                                     <img
-                                        src="https://cdn.biihappy.com/ziiweb/default/website/eb13d6af3ecce1c4c852a6b09913bdca.jpeg"
+                                        src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687267983/BB0A0914_pjgmax.jpg"
                                         alt="" />
                                 </div>
                             </li>
