@@ -8,7 +8,7 @@ const TheEnd = () => {
                         <h2>Gửi lời chúc tới cô dâu & chú rể</h2>
                         <p>Để thuận tiện cho việc gửi tặng món quà đến chúng mình, mình gửi mã này để mọi người có thể
                             gửi những tình cảm nho nhỏ qua đây. Chúng mình rất hân hạnh nếu được đón tiếp các bạn/quý
-                            khách đến chung vui cùng ngày vui của chúng mình!
+                            khách đến chung vui cùng chúng mình!
                         </p>
                         <img src="https://res.cloudinary.com/dzedflvjt/image/upload/v1687271760/QR_tyeqnr.jpg"
                              width="450" alt=""/>
