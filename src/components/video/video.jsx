@@ -1,7 +1,7 @@
 const Video = () => {
     return <section className="video-section event-section section-padding p-t-0 p-b-0" id="video">
         <div className="top-area"
-             style={{background: "url(https://cdn.biihappy.com/ziiweb/default/template/6174ef83a62963738e0a367c/f35716003ab48d57adf77b616c32daaf.jpg) center center/cover no-repeat local"}}
+             style={{background: "url(https://res.cloudinary.com/dzedflvjt/image/upload/v1687269815/11_rvrq9u.jpg) center center/cover no-repeat local"}}
         >
             <h2>Xem video cưới của chúng tôi</h2>
             <p>Tình yêu không làm cho thế giới quay tròn. Tình yêu là những gì làm cho chuyến đi đáng giá.</p>
