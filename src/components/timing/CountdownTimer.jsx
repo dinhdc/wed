@@ -22,15 +22,6 @@ const CountdownTimer = ({ seconds }) => {
         setTiming({ dates, hours, minutes, second });
     }, [countdown])
 
-    useEffect(() => {
-        const interval = setInterval(() => {
-            setCountdown(prevCountdown => prevCountdown - 1);
-        }, 1000);
-
-        // Clean up the interval when the component is unmounted
-        return () => clearInterval(interval);
-    }, []);
-
     return (
         <div className="count-down-clock">
             <div id="clock" data-date="2023-06-24" data-text-day="Ngày" data-text-hour="Giờ"
