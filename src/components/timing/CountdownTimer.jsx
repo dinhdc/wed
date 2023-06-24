@@ -7,7 +7,7 @@ const HOUR = 60 * MINUTE;
 const DATE = 24 * HOUR;
 
 const CountdownTimer = ({ seconds }) => {
-    const [countdown, setCountdown] = useState(seconds);
+    const [countdown, setCountdown] = useState(0);
     const [timing, setTiming] = useState(null);
 
     useEffect(() => {
